@@ -17,4 +17,4 @@ Why? How?What?
 The main goal was to create kind of one page website.
 There had to be a map of some kind and icons which represents restaurants or free time activities.
 
-Learned -> Use JQuery or other not-so-much-typing-needed language. 
+<b>Learned</b> -> Use JQuery or other not-so-much-typing-needed language. 
