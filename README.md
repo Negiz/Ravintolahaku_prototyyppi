@@ -7,6 +7,7 @@
   It works so it is good enough for that<br>
   One does better/faster work with JQuery<br>
   </p>
+  <h3> This code is not commented at all </h3>
    </body>
  
  
