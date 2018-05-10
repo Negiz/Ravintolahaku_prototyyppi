@@ -2,8 +2,9 @@
 
 <html>
  <body>
-   <h1> This code is not efficient and spaghetti like. </h1>
-   <p> this was intended to be a </p>
+   <h2> This code is not efficient and is spaghetti like. </h2>
+   <p> this was intended to be a just a prototype for a school project 
+  \n </p>
    </body>
  
  
